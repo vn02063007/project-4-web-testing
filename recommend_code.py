@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load the dataset
-df = pd.read_csv('C:\\Users\\Tom B\\Desktop\\module\\project 4 tom\\new folder testing\\Music_recommender_project4\\tom testing\\web\\database.csv')
+df = pd.read_csv('database.csv')
 df
 
 #capture
