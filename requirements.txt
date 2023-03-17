@@ -1,5 +1,7 @@
-numpy
 pandas
-seaborn
 scikit-learn
 streamlit
+sklearn
+sklearn.feature_extraction
+sklearn.metrics.pairwise
+sklearn.feature_extraction.text
